@@ -7773,6 +7773,11 @@
             "@id": "https://archbishopsregisters.york.ac.uk/iiif/manifest/j67314178/range/range-1",
             "@type": "sc:Range",
             "label": "Table of Contents",
+            "viewingHint": "top",
+            "ranges": [
+            "https://archbishopsregisters.york.ac.uk/iiif/manifest/j67314178/range/range-1-1",
+            "https://archbishopsregisters.york.ac.uk/iiif/manifest/j67314178/range/range-1-2", 
+            "https://archbishopsregisters.york.ac.uk/iiif/manifest/j67314178/range/range-1-3"],
             "canvases": [
                 "https://archbishopsregisters.york.ac.uk/iiif/canvas/9c67wn27g",
                 "https://archbishopsregisters.york.ac.uk/iiif/canvas/736664895",
