@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Teaching the Codex: Reading a Manuscript Description"
+title:  "Teaching the Codex: reading a manuscript description"
 date:   2017-04-09 12:20:45 +0000
 categories: 
 ---
