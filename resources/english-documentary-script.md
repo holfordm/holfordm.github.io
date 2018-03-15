@@ -18,25 +18,43 @@ The [Anglo-American Legal Tradition](http://aalt.law.uh.edu/) has digitized a la
 
 [Pipe Roll](http://aalt.law.uh.edu/AALT4/H3/E372no74/aE372no74fronts/IMG_3531.htm)
 
-# 1240
-[Memoranda Roll](http://aalt.law.uh.edu/H3/E159no18/aE159no18fronts/IMG_0025.htm)
+# 1240s
+[Memoranda Roll, 1239/40](http://aalt.law.uh.edu/H3/E159no18/aE159no18fronts/IMG_0025.htm)
 
-[Pipe Roll](http://aalt.law.uh.edu/AALT4/H3/E372no85/aE372no85fronts/IMG_1061.htm)
+[Pipe Roll, 1240/1](http://aalt.law.uh.edu/AALT4/H3/E372no85/aE372no85fronts/IMG_1061.htm)
+
+[Feet of Fine, 1240](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_55_43-56/IMG_0022.htm)
+
 
 # 1250s
 [Memoranda Roll](http://aalt.law.uh.edu/H3/E159no25/aE159no25fronts/IMG_0028.htm)
 
 [Pipe Roll](http://aalt.law.uh.edu/AALT4/H3/E372no94/aE372no94fronts/IMG_6006.htm)
 
+[Feet of Fine, 1251](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_56_57-66/IMG_0034.htm)
+
 # 1260s
 [Memoranda Roll](http://aalt.law.uh.edu/H3/E159no33/aE159no33fronts/IMG_0006.htm)
 
 [Pipe Roll](http://aalt.law.uh.edu/AALT4/H3/E372no104/aE372no104fronts/IMG_1876.htm)
 
+[Feet of Fine, 1261](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_57_67-81/IMG_0152.htm)
+
 # 1270s
 [Memoranda Roll](http://aalt.law.uh.edu/H3/E159no44/aE159no44fronts/IMG_0025.htm)
 
 [Pipe Roll](http://aalt.law.uh.edu/AALT4/H3/E372no114/aE372no114fronts/IMG_0757.htm)
+
+[Feet of Fine, 1273](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_58_82-96/IMG_0008.htm)
+
+
+# 1280s
+[Feet of Fine, 1281](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_58_82-96/IMG_0204.htm)
+
+# 1290s
+[Feet of Fine, 1293](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_59_97-111/IMG_0230.htm)
+
+
 
 # 1320s
 [Feet of Fine, 1327](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_60_118-126/IMG_0005.htm)
