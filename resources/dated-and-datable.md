@@ -29,14 +29,8 @@ Current coverage includes all relevant digitized manuscripts known to me in the 
 
 Last updated 25 January 2018
 
-<h2>England</h2>
-<table style="width: 100%">
-<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-    </colgroup>
-<tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
+<html><h2>England</h2>
+<table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/wp146tq7625">Cambridge, Corpus Christi College, 173, fols. 1-25</a></td><td>891 (c.) - 925 (c.)</td><td>England (Winchester)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qv695jy8078">Cambridge, Corpus Christi College, 183</a></td><td>934 x 939</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/wp146tq7625">Cambridge, Corpus Christi College, 173, fols. 26-32</a></td><td>947 (c.) - 1002 (c.)</td><td>England (Winchester)</td></tr>
@@ -56,7 +50,7 @@ Last updated 25 January 2018
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_7_41/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.7.41 (1360)</a></td><td>1112 (after)</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/xn117yn5845">Cambridge, Corpus Christi College, 371</a></td><td>1113 (?) x 1130</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/nt685jr6866">Cambridge, Corpus Christi College, 393</a></td><td>1116 x 1135 (?)</td><td>England (Ely)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_7_28/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.7.28 (770) , pp. 1-74</a></td><td>1120 x 1140 (?)</td><td>England (Bury St Edmunds)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_7_28/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.7.28 (770) , pp. 1-74</a></td><td>1120 X 1140 (?)</td><td>England (Bury St Edmunds)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/nm203xw8381">Cambridge, Corpus Christi College, 2, I</a></td><td>1121 x 1138 (c.)</td><td>England (Bury St Edmunds)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/vb856kp8798">Cambridge, Corpus Christi College, 2, II</a></td><td>1121 x 1138 (c.)</td><td>England (Bury St Edmunds)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/dt053nh0820">Cambridge, Corpus Christi College, 2, III</a></td><td>1121 x 1138 (c.)</td><td>England (Bury St Edmunds)</td></tr>
@@ -69,7 +63,7 @@ Last updated 25 January 2018
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_5/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.5 (84)</a></td><td>1130 (before c.)</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_28/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.28 (174)</a></td><td>1130 (before c.)</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_2_41/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.2.41 (1145)</a></td><td>1144 (after)</td><td>England (Ely)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_17_1/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.17.1 (987)</a></td><td>1145 x 1170</td><td>England (Canterbury)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_17_1/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.17.1 (987)</a></td><td>1145 X 1170</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_3_55/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.3.55 (1227)</a></td><td>1153 (before)</td><td>England (Durham)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fs743fm9703">Cambridge, Corpus Christi College, 46</a></td><td>1159 x 1170</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qj220gv8417">Cambridge, Corpus Christi College, 139</a></td><td>1164 x 1175</td><td>England</td></tr>
@@ -77,7 +71,7 @@ Last updated 25 January 2018
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_2_1/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.2.1. (1105) , fols. k1-14</a></td><td>1173 x 1189</td><td>England (Ely)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7703&CollID=8&NStart=3038">*London, British Library, Harley 3038</a></td><td>1176</td><td>England (Midlands (Shropshire))</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/bg021sq9590">Cambridge, Corpus Christi College, 200</a></td><td>1184 (after)</td><td>England (Canterbury)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_14_9/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.14.9 (884), i (fols. 1r-10r)</a></td><td>1188 x 1191</td><td>England</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_14_9/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.14.9 (884), i (fols. 1r-10r)</a></td><td>1188 X 1191</td><td>England</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=3473&CollID=8&NStart=1229">*London, British Library, Harley 1229</a></td><td>1190 x 1202</td><td>England (S. ( Waverly?))</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7474&CollID=16&NStart=70603">*London, British Library, Royal 7 F iii</a></td><td>1191-1192</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/gs070yh9296">Cambridge, Corpus Christi College, 339, vol. I</a></td><td>1192 x 1198</td><td>England (Winchester)</td></tr>
@@ -130,7 +124,7 @@ Last updated 25 January 2018
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4009&CollID=8&NStart=2946">*London, British Library, Harley 2946</a></td><td>1405</td><td>England (S. (London?))</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_15_21/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.15.21 (943) , fols. 1-77</a></td><td>1408</td><td>England</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=5264&CollID=15&NStart=403">*London, British Library, Lansdowne 403</a></td><td>1408</td><td>England (N. E. (York))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_2/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.2 (581)</a></td><td>1408 x 1426</td><td>England (London or Westminster)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_2/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.2 (581)</a></td><td>1408 X 1426</td><td>England (London or Westminster)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=484&CollID=27&NStart=43473">*London, British Library, Additional 43473</a></td><td>1413-1416</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/hm064tb2963">Cambridge, Corpus Christi College, 5</a></td><td>1420 x 1440</td><td>England (St Albans)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fc249qf5364">Cambridge, Corpus Christi College, 6</a></td><td>1420 x 1440</td><td>England (St Albans)</td></tr>
@@ -157,7 +151,7 @@ Last updated 25 January 2018
 <tr><td><a href="https://iiif.durham.ac.uk/index.html?manifest=t2mcv43nw821">Durham, Cathedral Library, C.IV.22 fol. 89-139</a></td><td>1449</td><td>England</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4898&CollID=8&NStart=5436">*London, British Library, Harley 5436</a></td><td>1451 and 1469</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fs557zw6332">Cambridge, Corpus Christi College, 123, vol. II</a></td><td>1456</td><td>England</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_14_5/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.14.5 (881)</a></td><td>1457 x 1461</td><td>England (Oxford)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_14_5/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.14.5 (881)</a></td><td>1457 X 1461</td><td>England (Oxford)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8704&CollID=16&NStart=180402">*London, British Library, Royal 18 D II ff. 6-162</a></td><td>1457-1460 (c.)</td><td>England (S. E. ( London?))</td></tr>
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157636649170634/">Oxford, Balliol College, 258</a></td><td>1460</td><td>England</td></tr>
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157631565253980/">Oxford, Balliol College, 202</a></td><td>1460-1465</td><td>England (Oxford)</td></tr>
@@ -169,7 +163,7 @@ Last updated 25 January 2018
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157636897997936/">Oxford, Balliol College, 34</a></td><td>1461</td><td>England (London)</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19558193">London, Wellcome Library, 537, fols. 323-6</a></td><td>1462</td><td>England</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19646379">London, Wellcome Library, 40</a></td><td>1463 x 1481</td><td>England</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_21/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.21 (601) , fols. 221-48</a></td><td>1471 x 1483</td><td>England (London   )</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_21/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.21 (601) , fols. 221-48</a></td><td>1471 X 1483</td><td>England (London   )</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/mp810zm2076">Cambridge, Corpus Christi College, 210</a></td><td>1478-1480</td><td>England</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_2_40/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.2.40 (1144)</a></td><td>1482 - 1497</td><td>England (Kirby Bellars)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=5698&CollID=16&NStart=180112">*London, British Library, Royal 18 A XII</a></td><td>1483 (c.)- c. 1485</td><td>England (S. E. (London?))</td></tr>
@@ -182,16 +176,8 @@ Last updated 25 January 2018
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_2_7/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.2.7 (50) , fols. 1-107</a></td><td>1549</td><td>England</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_2_7/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.2.7 (50) , fols. 107-47</a></td><td>1575</td><td>England</td></tr>
 
-</table>
-
-<h2>France</h2>
-<table style="width: 100%">
-<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-    </colgroup>
-<tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
+</table><h2>France</h2>
+<table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8452765t">Paris, BNF, lat. 152</a></td><td>814 ante</td><td>France  (Lyon ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8451637v">Paris, BNF, lat. 266</a></td><td>840-851</td><td>France (Tours, S.Martin)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8455903b">Paris, BNF, lat. 1</a></td><td>845-851</td><td>France (Tours, S.Martin)</td></tr>
@@ -207,26 +193,40 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b84323046">Paris, BNF, lat. 909</a></td><td>1029-1034</td><td>France (Limoges, S.Martial)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14907">*Rouen, Bibl. mun., 272</a></td><td>1033-1053</td><td>France (Rouen ?)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14935">*Rouen, Bibl. mun., 489</a></td><td>1035-1066</td><td>France (S.Evroult d'Ouche ?)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9104">Angers, Bibl. mun.121</a></td><td>1052 ca</td><td>France (Angers, S.Nicolas)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52501999v">Paris, BNF, lat. 3786 [240-3, 252-9]</a></td><td>1058</td><td>France (S.Maur des Fossés)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_16_44/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.16.44 (405)</a></td><td>1059 x 1070</td><td>France (Bec)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_16_44/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.16.44 (405)</a></td><td>1059 X 1070</td><td>France (Bec)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http://bvmm.irht.cnrs.fr/iiif/1082/manifest">Angers, Bibl. mun.283</a></td><td>1066-1083</td><td>France (Angers, S.Serge)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9160">Angers, Bibl. mun.187</a></td><td>1083-1093 ?</td><td>France (Angers, S.Serge)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14887">*Rouen, Bibl. mun., 32</a></td><td>1084-1097</td><td>France (Jumièges, S.Pierre ?)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/nr257ff7994">Cambridge, Corpus Christi College, 415</a></td><td>1095 x 1109</td><td>France (Rouen (?))</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b10724081b?rk=21459;2">Paris, BNF, lat. 1918</a></td><td>1107-1121</td><td>France (S.Amand en Pévèle)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=7451">*Dijon, Bibl. mun. 12</a></td><td>1109</td><td>France (Cîteaux, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=7452">*Dijon, Bibl. mun. 13</a></td><td>1109</td><td>France (Cîteaux, N.D.)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14973">*Rouen, Bibl. mun., 1174 [116-139]</a></td><td>1109-1110 ca</td><td>France (Rouen)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14973">*Rouen, Bibl. mun., 1174</a></td><td>1113-1143</td><td>France (Rouen)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1873</a></td><td>1114</td><td>France (Landevieille)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90680273">Paris, BNF, lat. 2092</a></td><td>1136</td><td>France (S.Amand en Pévèle ?)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14908">*Rouen, Bibl. mun., 273 [1-35, 251-263]</a></td><td>1143 ante</td><td>France (Rouen)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_11/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.11 (90)</a></td><td>1164 x 1170</td><td>France (Paris (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_30/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.30 (109)</a></td><td>1164 x 1170</td><td>France (Paris (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_5/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.5 (151)</a></td><td>1164 x 1170</td><td>France (Paris (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_16_17/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.16.17 (391)</a></td><td>1164 x 1170</td><td>France (Pontigny (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_4_4/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.4.4 (637)</a></td><td>1164 x 1170</td><td>France</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_12/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.12 (91)</a></td><td>1164 x 1194 (?)</td><td>France (Paris (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_4_30/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.4.30 (144)</a></td><td>1164 x 1194 (?)</td><td>France (Paris (?))</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_6/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.6 (with B.5.7) (152, 153)</a></td><td>1170 (?) x 1177</td><td>France (Paris)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_7/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.7 (with B.5.6) (152, 153)</a></td><td>1170 (?) x 1177</td><td>France (Paris)</td></tr>
-<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_4/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.4 (150)</a></td><td>1173 x 1177</td><td>France (Paris  )</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2555">Charleville, Bibl. mun. 26, t. I</a></td><td>1148</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2597">Charleville, Bibl. mun. 49</a></td><td>1148</td><td>France (Signy, N.D. ?)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2652">Charleville, Bibl. mun. 12</a></td><td>1149</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2556">Charleville, Bibl. mun. 26, t. II</a></td><td>1149</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18537">Charleville, Bibl. mun. 254, t.3</a></td><td>1151</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18412">Charleville, Bibl. mun. 246 B</a></td><td>1156-1157</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?mode=ecran&panier=false&reproductionId=2648&VUE_ID=668200&carouselThere=false&nbVignettes=4x3&page=1&angle=0&zoom=petit&tailleReelle=">Charleville, Bibl. mun. 2</a></td><td>1157</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_11/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.11 (90)</a></td><td>1164 X 1170</td><td>France (Paris (?))</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_30/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.30 (109)</a></td><td>1164 X 1170</td><td>France (Paris (?))</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_5/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.5 (151)</a></td><td>1164 X 1170</td><td>France (Paris (?))</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_16_17/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.16.17 (391)</a></td><td>1164 X 1170</td><td>France (Pontigny (?))</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_4_4/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.4.4 (637)</a></td><td>1164 X 1170</td><td>France</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_3_12/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.3.12 (91)</a></td><td>1164 X 1194 (?)</td><td>France (Paris (?))</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_4_30/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.4.30 (144)</a></td><td>1164 X 1194 (?)</td><td>France (Paris (?))</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18423">Charleville, Bibl. mun. 246 D</a></td><td>1165-1167</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18579">Charleville, Bibl. mun. 264</a></td><td>1170</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_6/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.6 (with B.5.7) (152, 153)</a></td><td>1170 (?) X 1177</td><td>France (Paris)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_7/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.7 (with B.5.6) (152, 153)</a></td><td>1170 (?) X 1177</td><td>France (Paris)</td></tr>
+<tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_5_4/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.5.4 (150)</a></td><td>1173 X 1177</td><td>France (Paris  )</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14903">*Rouen, Bibl. mun., 240</a></td><td>1173 ante</td><td>France (S.Wandrille)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14890">*Rouen, Bibl. mun., 93</a></td><td>1180 ante</td><td>France (Jumièges, S.Pierre ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b10507222x">Paris, BNF, lat. 3549</a></td><td>1198-1207</td><td>France (Limoges, S.Martial)</td></tr>
@@ -235,38 +235,52 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b525035131">Paris, BNF, lat. 510</a></td><td>1207 post</td><td>France (Foucarmont, N.D.)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 3237</a></td><td>1213-1224</td><td>France (Limoges, S.Martial)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_29/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.29 (609), fols. 2-27</a></td><td>1219</td><td>France (Paris)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2655">Charleville, Bibl. mun. 34</a></td><td>1232</td><td>France (Belval, N.D.)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14910">*Rouen, Bibl. mun., 276</a></td><td>1251-1256</td><td>France (Rouen)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8432466n">Paris, BNF, lat. 830</a></td><td>1253 post</td><td>France  (Paris ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b107212060?rk=21459;2">Paris, BNF, lat. 1105</a></td><td>1265-1272</td><td>France (Bec Helluin (Le), N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9106">Angers, Bibl. mun.123</a></td><td>1273</td><td>France (Angers, S.Aubin)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90782487">Paris, BNF, lat. 4522</a></td><td>1301</td><td>France (Lyon)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9077806n">Paris, BNF, lat. 365</a></td><td>1319</td><td>France  (Toulouse ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9081030z">Paris, BNF, lat. 375</a></td><td>1319</td><td>France  (Toulouse ?)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14911">*Rouen, Bibl. mun., 289</a></td><td>1326 ca</td><td>France (Fécamp, S.Trinité ?)</td></tr>
-
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2540">Charleville, Bibl. mun. 16</a></td><td>1336-1337</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2629">Charleville, Bibl. mun. 87</a></td><td>1344-1345</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18400">Charleville, Bibl. mun. 244</a></td><td>1346</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2644">Charleville, Bibl. mun. 89</a></td><td>1346-1348</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_9_35/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.9.35 (1447)</a></td><td>1347</td><td>France (Dangeau)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9210">Angers, Bibl. mun.254</a></td><td>1361-1370 ca</td><td>France (Avignon ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b84516336?rk=21459;2">Paris, BNF, lat. 1082</a></td><td>1364 ca</td><td>France (Paris ?)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=7588">*Dijon, Bibl. mun. 525</a></td><td>1365-1362</td><td>France (Paris)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18137">Charleville, Bibl. mun. 118</a></td><td>1379 ca</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9066871n">Paris, BNF, lat. 4914</a></td><td>1381</td><td>France (Marseille)</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b18896005">London, Wellcome Library, 31</a></td><td>1390</td><td>France (Paris)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2493">Charleville, Bibl. mun. 233</a></td><td>1397</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2610">Charleville, Bibl. mun. 63 [1-64]</a></td><td>1399</td><td>France (Valenciennes ?)</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19295091">London, Wellcome Library, 15</a></td><td>1408</td><td>France (Montpellier)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9095">Angers, Bibl. mun.106</a></td><td>1410</td><td>France (Angers, Toussaint)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9080">Angers, Bibl. mun.86</a></td><td>1410 ca</td><td>France (Angers, Toussaint)</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19295455">London, Wellcome Library, 790</a></td><td>1415</td><td>France (Evreux)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=7616">Dijon, Bibl. mun. 740</a></td><td>1415</td><td>France (Dijon)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1489</a></td><td>1429</td><td>France (Bazas)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18114">Charleville, Bibl. mun. 114</a></td><td>1445-1448 ca</td><td>France (Signy, N.D.)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9121">Angers, Bibl. mun.141</a></td><td>1447</td><td>France (Angers)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1865</a></td><td>1453</td><td>France (Blois)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9194">Angers, Bibl. mun.230</a></td><td>1457</td><td>France (Angers)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14948">*Rouen, Bibl. mun., 772</a></td><td>1465-1472</td><td>France (Rouen)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2610">Charleville, Bibl. mun. 63 [77-88]</a></td><td>1466</td><td>France (Abbeville, Val S.Honoré)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14971">*Rouen, Bibl. mun., 1151</a></td><td>1471</td><td>France (S.Evroult d'Ouche)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2495">Charleville, Bibl. mun. 235</a></td><td>1479</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2607">Charleville, Bibl. mun. 148</a></td><td>1480</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1305</a></td><td>1482</td><td>France (S.Flour)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2604">Charleville, Bibl. mun. 58</a></td><td>1490</td><td>France (Mont-Dieu, Chartreuse)</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9269">Angers, Bibl. mun.343</a></td><td>1493-1494 ca</td><td>France (Angers)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90680488">Paris, BNF, lat. 983 A</a></td><td>1502</td><td>France (Clairvaux, N.D.)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b6000733g?rk=21459;2">Paris, BNF, lat. 1124</a></td><td>1544</td><td>France (Paris, S.Martin des Champs)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b10720576p">Paris, BNF, lat. 677</a></td><td>1544 post</td><td>France (Rodez)</td></tr>
-</table>
 
-<h2>Italy</h2>
-<table style="width: 100%">
-<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-    </colgroup>
-<tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
+</table><h2>Italy</h2>
+<table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9065965z">Paris, BNF, lat. 606</a></td><td>1286</td><td>Italy (Foggia)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9078299j">Paris, BNF, lat. 4895</a></td><td>1331</td><td>Italy (Milan)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9066557b">Paris, BNF, lat. 4162 A</a></td><td>1362</td><td>Italy (Urbania)</td></tr>
@@ -290,15 +304,8 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1767</a></td><td>1489</td><td>Italy (Florence)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8446786z">Paris, BNF, lat. 674</a></td><td>1489-1492</td><td>Italy (Naples)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b107205685">Paris, BNF, lat. 705</a></td><td>1539</td><td>Italy (Naples)</td></tr>
-</table>
-
-<h2>Germany</h2>
-<table style="width: 100%">
-<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-    </colgroup>
+</table><h2>Germany</h2>
+<table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9078151c">Paris, BNF, lat. 2423</a></td><td>844 ca</td><td>Germany (Fulda)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/rg420yp8320">Cambridge, Corpus Christi College, 373</a></td><td>1114 x 1125</td><td>Germany</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19684538">London, Wellcome Library, 11</a></td><td>1374</td><td>Germany</td></tr>
@@ -322,17 +329,9 @@ Last updated 25 January 2018
 <tr><td><a href="http://wellcomelibrary.org/item/b19290949">London, Wellcome Library, 505, fols. 1-24</a></td><td>1479</td><td>Germany</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19290949">London, Wellcome Library, 505, fols. 25-72</a></td><td>1487</td><td>Germany</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19270495">London, Wellcome Library, 106</a></td><td>1494</td><td>Germany</td></tr>
-</table>
 
-<h2>Other or unlocalized</h2>
-<table style="width: 100%">
-<colgroup>
-       <col span="1" style="width: 50%;">
-       <col span="1" style="width: 25%;">
-       <col span="1" style="width: 25%;">
-    </colgroup>
-<tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
-
+</table><h2>Other or unlocalized</h2>
+<table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9078378q">Paris, BNF, lat. 528</a></td><td>826 ?</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9078150z">Paris, BNF, lat. 2443</a></td><td>841-857</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b85409594">Paris, BNF, lat. 2341</a></td><td>843 ca ?</td><td></td></tr>
@@ -340,24 +339,33 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8452767n">Paris, BNF, lat. 2</a></td><td>865-877</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8455926b">Paris, BNF, lat. 2855</a></td><td>951 ca</td><td>Spain (Albelda (Pampelune))</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9072417h">Paris, BNF, lat. 2113</a></td><td>988 ca ?</td><td></td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14990">*Rouen, Bibl. mun., 1409</a></td><td>1078-1095</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14990">Rouen, Bibl. mun., 1409</a></td><td>1078-1095</td><td></td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/sk095st1718">Cambridge, Corpus Christi College, 199</a></td><td>1085 x 1091</td><td>Wales (Llanbadarn Fawr)</td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=14886">*Rouen, Bibl. mun., 31 [9-48]</a></td><td>1113-1143</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http%3A%2F%2Fbvmm.irht.cnrs.fr%2Fiiif%2F4829%2Fmanifest">Evreux, Bibl. mun., 60 L</a></td><td>1093 ?</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=14886">Rouen, Bibl. mun., 31 [9-48]</a></td><td>1113-1143</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9067828z">Paris, BNF, lat. 3790</a></td><td>1138</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9243">Angers, Bibl. mun.302</a></td><td>1153-1174 ?</td><td></td></tr>
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157630972741576/">Oxford, Balliol College, 36</a></td><td>1166 (before)</td><td>France (?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9068046f">Paris, BNF, lat. 946</a></td><td>1167-1183</td><td></td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14916">*Rouen, Bibl. mun., 311</a></td><td>1173 ante</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14916">Rouen, Bibl. mun., 311</a></td><td>1173 ante</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8452652v">Paris, BNF, lat. 4894</a></td><td>1185-1191</td><td></td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/O_3_22/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, O.3.22 (1194)</a></td><td>1195 (before)</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http://bvmm.irht.cnrs.fr/iiif/1087/manifest">Angers, Bibl. mun.312</a></td><td>1216-1217 ca</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9080991f">Paris, BNF, lat. 420</a></td><td>1220 ante</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9017">Angers, Bibl. mun.7</a></td><td>1225</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9066553p">Paris, BNF, lat. 363</a></td><td>1230-1250</td><td></td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=19247">*Rouen, Bibl. mun., 277</a></td><td>1231-1245 ca</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=19247">Rouen, Bibl. mun., 277</a></td><td>1231-1245 ca</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9191">Angers, Bibl. mun.225</a></td><td>1250-1251</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90665543">Paris, BNF, lat. 1023</a></td><td>1253-1296</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9077888h">Paris, BNF, lat. 4427</a></td><td>1269</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90661628">Paris, BNF, lat. 478</a></td><td>1286</td><td></td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14947">*Rouen, Bibl. mun., 766</a></td><td>1289-1290</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14947">Rouen, Bibl. mun., 766</a></td><td>1289-1290</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2633">Charleville, Bibl. mun. 94</a></td><td>1303</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=18157">Charleville, Bibl. mun. 122</a></td><td>1309</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9068471w">Paris, BNF, lat. 4983</a></td><td>1313-1320</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90777670">Paris, BNF, lat. 4986</a></td><td>1315-1317</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9180">Angers, Bibl. mun.211</a></td><td>1323 ca</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2534">Charleville, Bibl. mun. 9</a></td><td>1329</td><td></td></tr>
 <tr><td>*<a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=484&CollID=27&NStart=62929">London, British Library, Additional 62929</a></td><td>1341-1348</td><td>France or England</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1595</a></td><td>1342</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b84525491">Paris, BNF, lat. 1052</a></td><td>1347-1380</td><td></td></tr>
@@ -373,6 +381,7 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b105111002">Paris, BNF, lat. 432</a></td><td>1416</td><td></td></tr>
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157625849050285/">Oxford, Balliol College, 31</a></td><td>1432</td><td></td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19690435">London, Wellcome Library, 120, fols. 5-168, 171-238</a></td><td>1442</td><td>Germany, S., or Austria</td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9057">Angers, Bibl. mun.57</a></td><td>1444 ?</td><td></td></tr>
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157630983831414/">Oxford, Balliol College, 238B</a></td><td>1445-1448</td><td>Germany & Italy (Cologne & Rome)</td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19270495">London, Wellcome Library, 167, fols.1-111 and 164-253</a></td><td>1464 and 1470-4</td><td>Italy and France (Padua and Strasbourg)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/zr238yt3712">Cambridge, Corpus Christi College, 396</a></td><td>1465</td><td>England or Wales</td></tr>
@@ -381,10 +390,12 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9080994p">Paris, BNF, lat. 479</a></td><td>1466 ante</td><td></td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qx830kw1352">Cambridge, Corpus Christi College, 417</a></td><td>1467 (additions 1469-72)</td><td></td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qj873kn3575">Cambridge, Corpus Christi College, 458, fols. 103-22</a></td><td>1467-1468</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=7515">Dijon, Bibl. mun. 121</a></td><td>1468</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52501620s">Paris, BNF, lat. 920</a></td><td>1469-1489</td><td></td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19119768">London, Wellcome Library, 6, fols. 1-12</a></td><td>1471</td><td>Low Countries</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b105154352">Paris, BNF, lat. 723</a></td><td>1471</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9068437v">Paris, BNF, lat. 2454</a></td><td>1472</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2484">Charleville, Bibl. mun. 215</a></td><td>1472</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b84547003">Paris, BNF, lat. 961</a></td><td>1473-1492</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8452656h">Paris, BNF, lat. 771</a></td><td>1475</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1179</a></td><td>1475</td><td></td></tr>
@@ -392,8 +403,10 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b84469538">Paris, BNF, lat. 2368</a></td><td>1480</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90677951">Paris, BNF, lat. 2885</a></td><td>1481</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 1291</a></td><td>1482</td><td></td></tr>
-<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14960">Rouen, Bibl. mun., 1045</a></td><td>1482 ante</td><td></td></tr>
+<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14960">Rouen, Bibl. mun., 1045</a></td><td>1482 ante</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9103">Angers, Bibl. mun.119</a></td><td>1482 ca</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8529698f">Paris, BNF, lat. 774</a></td><td>1483-1498</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9114">Angers, Bibl. mun.131</a></td><td>1486</td><td></td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19504883">London, Wellcome Library, 349, fols. 1-23</a></td><td>1488</td><td>Germany or Low Countries</td></tr>
 <tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14921">Rouen, Bibl. mun., 382</a></td><td>1491 ca</td><td></td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_2_24/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.2.24 (67)</a></td><td>1492</td><td>Netherlands (Doesburg)</td></tr>
@@ -406,4 +419,5 @@ Last updated 25 January 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9078375g">Paris, BNF, lat. 907</a></td><td>1531</td><td></td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b105206379">Paris, BNF, lat. 434</a></td><td>1542-1547</td><td></td></tr>
 <tr><td><a href="http://wellcomelibrary.org/item/b19677467">London, Wellcome Library, 516</a></td><td>1584 etc.</td><td></td></tr>
+
 </table>

@@ -137,7 +137,7 @@ Developments in English documentary script between the thirteenth and fifteenth 
 
 [Pipe Roll](http://aalt.law.uh.edu/AALT5/H6/E372no275/aE372no275fronts/IMG_0023.htm)
 
-{Durham Priory Register, c. 1431}(https://iiif.durham.ac.uk/index.html?manifest=t2m5x21tf42m&canvas=t2tng451h69x)
+[Durham Priory Register, c. 1431](https://iiif.durham.ac.uk/index.html?manifest=t2m5x21tf42m&canvas=t2tng451h69x)
 
 # 1440s
 [Feet of Fine, 1445/6](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_72_280-284/IMG_0003.htm)
@@ -168,6 +168,7 @@ Developments in English documentary script between the thirteenth and fifteenth 
 
 # 1480s
 [Feet of Fine, 1485/6](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_72_292-296/IMG_0344.htm)
+
 
 ### Secretary hands
 
