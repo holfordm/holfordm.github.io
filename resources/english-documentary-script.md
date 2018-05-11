@@ -43,6 +43,8 @@ Developments in English documentary script between the thirteenth and fifteenth 
 
 [Feet of Fine, 1261](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_57_67-81/IMG_0152.htm)
 
+[Archbishop's Register, c. 1266](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=f4752h53m&folio=56)
+
 # 1270s
 [Memoranda Roll](http://aalt.law.uh.edu/H3/E159no44/aE159no44fronts/IMG_0025.htm)
 
@@ -50,15 +52,26 @@ Developments in English documentary script between the thirteenth and fifteenth 
 
 [Feet of Fine, 1273](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_58_82-96/IMG_0008.htm)
 
+[Archbishop's Register, c. 1274](https://archbishopsregisters.york.ac.uk/browse/registers?folio=267&register_id=f4752h53m)
+
 
 # 1280s
 [Feet of Fine, 1281](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_58_82-96/IMG_0204.htm)
 
+[Archbishop's Register, c. 1286](https://archbishopsregisters.york.ac.uk/browse/registers?folio=247&register_id=4f16c358w)
+
 # 1290s
 [Feet of Fine, 1293](http://aalt.law.uh.edu/AALT7/CP25(1)/CP25_1_59_97-111/IMG_0230.htm)
 
+[Archbishop's Register, c. 1293](https://archbishopsregisters.york.ac.uk/browse/registers?folio=52&register_id=4f16c358w)
+
+# 1300s
+[Archbishop's Register, c. 1303](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=js956g57t&folio=117)
+
 # 1310s
 [Durham Priory Register, c. 1312](https://iiif.durham.ac.uk/index.html?manifest=t1mr781wg00d&canvas=t1tmc87pq517)
+
+[Archbishop's Register, c. 1312](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=rj430538n&folio=92)
 
 # 1320s
 [Durham Priory Register, c. 1322](https://iiif.durham.ac.uk/index.html?manifest=t1mr781wg00d&canvas=t1tjw827b868)
@@ -198,4 +211,8 @@ Developments in English documentary script between the thirteenth and fifteenth 
 [Durham Priory Register, c. 1457](https://iiif.durham.ac.uk/index.html?manifest=t2mqb98mf444&canvas=t2tfn106z10d)
 
 
+# 1470s
+[Duchy of Lancaster records, 1478](http://aalt.law.uh.edu/DL5/DL5no1/IMG_4038.htm)
 
+# 1490s
+[Duchy of Lancaster records, 1494](http://aalt.law.uh.edu/DL5/DL5no3/IMG_0193.htm)
