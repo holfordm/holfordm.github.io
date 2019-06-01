@@ -266,7 +266,7 @@ Last updated 5 May 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b525035131">Paris, BNF, lat. 510</a></td><td>1207 post</td><td>France (Foucarmont, N.D.)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http%3A%2F%2Fbvmm.irht.cnrs.fr%2Fiiif%2F5621%2Fmanifest">AVRANCHES, Bibl. mun., 214</a></td><td>1210-1212</td><td>France (Mont S.Michel)</td></tr>
 
-<tr><td><a href="https://gallica.bnf.fr/ark:/12148/btv1b525094719">Paris, BNF, lat. 16200</a></td><td>1213 post</td><td>France (Paris)</td></tr>
+<tr><td><a href="https://gallica.bnf.fr/ark:/12148/btv1b525094719">Paris, BNF, lat. 16200</a></td><td>1213 </td><td>France (Paris)</td></tr>
 
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 3237</a></td><td>1213-1224</td><td>France (Limoges, S.Martial)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=2023">TROYES, Bibl. mun., 1158</a></td><td>1218 post</td><td>France (Clairvaux, N.D.)</td></tr>
