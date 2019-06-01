@@ -265,15 +265,30 @@ Last updated 5 May 2018
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9068062j">Paris, BNF, lat. 505</a></td><td>1207 post</td><td>France (Foucarmont, N.D.)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b525035131">Paris, BNF, lat. 510</a></td><td>1207 post</td><td>France (Foucarmont, N.D.)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http%3A%2F%2Fbvmm.irht.cnrs.fr%2Fiiif%2F5621%2Fmanifest">AVRANCHES, Bibl. mun., 214</a></td><td>1210-1212</td><td>France (Mont S.Michel)</td></tr>
+
+<tr><td><a href="https://gallica.bnf.fr/ark:/12148/btv1b525094719">Paris, BNF, lat. 16200</a></td><td>1213 post</td><td>France (Paris)</td></tr>
+
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b52506362x">Paris, BNF, lat. 3237</a></td><td>1213-1224</td><td>France (Limoges, S.Martial)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=2023">TROYES, Bibl. mun., 1158</a></td><td>1218 post</td><td>France (Clairvaux, N.D.)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_3_29/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.3.29 (609), fols. 2-27</a></td><td>1219</td><td>France (Paris)</td></tr>
+<tr><td><a href="https://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=19285">Cambrai, Bib. mun. 37</a></td><td>1224 x 1235</td><td>France (Cambrai)</td></tr>
+<tr><td><a href="https://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=19283">Cambrai, Bib. mun. 27</a></td><td>1225 x 1238</td><td>France (Cambrai)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=2655">Charleville, Bibl. mun. 34</a></td><td>1232</td><td>France (Belval, N.D.)</td></tr>
+<tr><td><a href="https://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=19286">Cambrai, Bib. mun. 27</a></td><td>1235 x 1245</td><td>France (Cambrai)</td></tr>
+
+<tr><td><a href="https://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=8857">*Orléans, Bibl. mun. 25</a></td><td>1239</td><td>France (S. Benoît sur Loire)</td></tr>
+
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b10036917m">Paris, BNF, lat. 15652</a></td><td>1240-1245</td><td>France (Paris)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14910">*Rouen, Bibl. mun., 276</a></td><td>1251-1256</td><td>France (Rouen)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b8432466n">Paris, BNF, lat. 830</a></td><td>1253 post</td><td>France  (Paris ?)</td></tr>
+
+<tr><td><a href="https://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=8965">*Orléans, Bibl. mun. 315</a></td><td>1256</td><td>France  (Sens, S.Pierre le Vif)</td></tr>
+
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=620">Toulouse, Bibl. mun. 609</a></td><td>1258-1263</td><td>France (Toulouse ?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b107212060?rk=21459;2">Paris, BNF, lat. 1105</a></td><td>1265-1272</td><td>France (Bec Helluin (Le), N.D.)</td></tr>
+
+<tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90666175">Paris, BNF, lat. 16297</a></td><td>1270 x 1273</td><td>France (Paris)</td></tr>
+
 <tr><td><a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=9106">*Angers, Bibl. mun.123</a></td><td>1273</td><td>France (Angers, S.Aubin)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90679007">Paris, BNF, lat. 15131</a></td><td>1289-1292</td><td>France (S.Denis)</td></tr>
 <tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=1825">TROYES, Bibl. mun., 1402</a></td><td>1294-1299</td><td>France (Clairvaux, N.D.)</td></tr>
