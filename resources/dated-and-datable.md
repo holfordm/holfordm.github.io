@@ -38,6 +38,9 @@ Last updated 5 May 2018
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/wp146tq7625">Cambridge, Corpus Christi College, 173, fols. 26-32</a></td><td>0947 (c.) - 1002 (c.)</td><td>England (Winchester)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b6001165p">Paris, BNF, lat. 943</a></td><td>0960-1001</td><td>England (Sherborne)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/yp193mg4537">Cambridge, Corpus Christi College, 473, fols. 9-190</a></td><td>0984 (after)</td><td>England (Winchester)</td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_34890_fs001r">London, British Library, Add 34890</a></td><td>1012 x 1023</td><td>England (Canterbury, Christ Church)</td></tr>
+
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_15_32/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.15.32 (945) , pp. 13-26</a></td><td>1035 or 1035</td><td>England (Hyde)</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/B_11_2/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, B.11.2 (241) , fols. 113-21</a></td><td>1050 x 1072</td><td>England (Exeter)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/dm156pk7342">Cambridge, Corpus Christi College, 190B, pp. 295-319, 351-64</a></td><td>1050 x 1072</td><td>England (Exeter)</td></tr>
@@ -93,6 +96,10 @@ Last updated 5 May 2018
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/hj164fb1760">Cambridge, Corpus Christi College, 465, fols. 9-159</a></td><td>1257 x 1265</td><td>England (Norwich)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4843&CollID=8&NStart=531">*London, British Library, Harley 531</a></td><td>1272</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/hj164fb1760">Cambridge, Corpus Christi College, 465, fols. 1-6</a></td><td>1278 x 1288</td><td>England (Norwich)</td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_24686_f002r">London, British Library, Add 24686</a></td><td>c. 1284-1316</td><td>England (London or Westminster)</td></tr>
+
+
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=1310&CollID=21&NStart=941">*London, British Library, Stowe 941</a></td><td>1286</td><td>England (S. E. (St Neots))</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/vk535sj2249">Cambridge, Corpus Christi College, 297</a></td><td>1290 x 1307</td><td>England (Thorney)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=6653&CollID=28&NStart=3142">*London, British Library, Egerton 3142</a></td><td>1294 (c.)</td><td>England</td></tr>
@@ -103,13 +110,16 @@ Last updated 5 May 2018
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7335&CollID=8&NStart=273">*London, British Library, Harley 273</a></td><td>1314 x 1328</td><td>England (S. W. (Ludlow)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=3541&CollID=8&NStart=173">*London, British Library, Harley 173</a></td><td>1321 (c.)</td><td>England</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8775&CollID=21&NStart=12">*London, British Library, Stowe 12 ff. 1-354</a></td><td>1322 x 1325</td><td>England (E. (Norwich))</td></tr>
-<tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8818&CollID=27&NStart=47680">*London, British Library, Additional 47680 ff. 1-76v</a></td><td>1326 x 1327</td><td>England (S. E. (London))</td></tr>
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_47680_fs001r">*London, British Library, Additional 47680 ff. 1-76v</a></td><td>1326 x 1327</td><td>England (S. E. (London))</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/mj309qh4224">Cambridge, Corpus Christi College, 407, fols. 1-92</a></td><td>1331 x 1352</td><td>England</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=8650&CollID=20&NStart=57">*London, British Library, Arundel 57</a></td><td>1340</td><td>England (S. E. (Canterbury))</td></tr>
 <tr><td><a href="https://digi.vatlib.it/view/MSS_Ott.lat.181">Vatican, BAV, Ott. lat. 181</a></td><td>1344</td><td>England (London)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/gx458ty6679">Cambridge, Corpus Christi College, 24</a></td><td>1344 x 1348</td><td>England</td></tr>
 <tr><td><a href="http://trin-sites-pub.trin.cam.ac.uk/manuscripts/R_7_2/manuscript.php?fullpage=1&startingpage=1">Cambridge, Trinity College, R.7.2 (740)</a></td><td>1362-1366</td><td>England (Malmesbury)</td></tr>
-<tr><td><a href="http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=EL+7+H+8">*San Marino, Huntington Library, EL 7 H.8</a></td><td>1368</td><td>England (Ashridge)</td></tr>
+<tr><td><a href="http://dpg.lib.berkeley.edu/webdb/dsheh/heh_brf?CallNumber=EL+7+H+8">San Marino, Huntington Library, EL 7 H.8</a></td><td>1368</td><td>England (Ashridge)</td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=royal_ms_6_e_vi!1_fs001r">London, British Library, Royal 6 E vi/1</a></td><td>1360 x 1375</td><td>England (London)</td></tr>
+
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fm985xq3462">Cambridge, Corpus Christi College, 7, fols. 102-111</a></td><td>1380 x 1396</td><td>England (St Albans)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/ILLUMIN.ASP?Size=mid&IllID=12368">*London, British Library, Burney 310</a></td><td>1381</td><td>England (Finchale)</td></tr>
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=5953">*London, British Library, Royal 4 E ii</a></td><td>1381</td><td>England</td></tr>
@@ -449,15 +459,23 @@ Last updated 5 May 2018
 <tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14990">Rouen, Bibl. mun., 1409</a></td><td>1078-1095</td><td></td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/sk095st1718">Cambridge, Corpus Christi College, 199</a></td><td>1085 x 1091</td><td>Wales (Llanbadarn Fawr)</td></tr>
 <tr><td>*<a href="http://bvmm.irht.cnrs.fr/mirador/index.php?manifest=http%3A%2F%2Fbvmm.irht.cnrs.fr%2Fiiif%2F4829%2Fmanifest">Evreux, Bibl. mun., 60 L</a></td><td>1093 ?</td><td></td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_28106_f001r">London, British Library, Add 28106</a></td><td>1093-1097</td><td>Netherlands (Stavelot)</td></tr>
+
 <tr><td>*<a href="http://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=14886">Rouen, Bibl. mun., 31 [9-48]</a></td><td>1113-1143</td><td></td></tr>
 
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9067828z">Paris, BNF, lat. 3790</a></td><td>1138</td><td></td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/FullDisplay.aspx?index=0&ref=Add_MS_14788">London, British Library,Add. 14788</a></td><td>1148</td><td>Netherlands (Parc Abbey)</td></tr>
 
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b10035229x">Paris, BNF, lat. 14314</a></td><td>1152 (c.)</td><td></td></tr>
 
 <tr><td><a href="https://gallica.bnf.fr/ark:/12148/bpt6k4830j/f76.image">†Paris, BNF, lat. 14802</a></td><td>1153</td><td></td></tr>
 
-<tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9243">Angers, Bibl. mun.302</a></td><td>1153-1174 ?</td><td></td></tr>
+<tr><td><a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=9243">Angers, Bibl. mun.302</a></td><td>1153-1174 ?</td><td></td></tr>
+
+<tr><td><a href="http://www.bl.uk/manuscripts/Viewer.aspx?ref=add_ms_17737_fs001r">London, British Library,Add. 14788</a></td><td>c. 1155-1170</td><td>Belgium (Floreffe)</td></tr>
+
 <tr><td><a href="https://www.flickr.com/photos/balliolarchivist/sets/72157630972741576/">Oxford, Balliol College, 36</a></td><td>1166 (before)</td><td>France (?)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b9068046f">Paris, BNF, lat. 946</a></td><td>1167-1183</td><td></td></tr>
 <tr><td>*<a href="http://bvmm.irht.cnrs.fr/consult/consult.php?reproductionId=14916">Rouen, Bibl. mun., 311</a></td><td>1173 ante</td><td></td></tr>
