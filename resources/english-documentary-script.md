@@ -198,6 +198,9 @@ Developments in English documentary script between the thirteenth and fifteenth 
 # 1420s
 [Archbishop's Register, c. 1426](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=6395w894f&folio=32)
 
+# 1430s
+[Archbishop's Register, c. 1434](https://archbishopsregisters.york.ac.uk/browse/registers?folio=52&register_id=6395w894f)
+
 # 1440s
 [Durham Priory Register, c. 1442](https://iiif.durham.ac.uk/index.html?manifest=t2m5x21tf42m&canvas=t2tsx61dm50c)
 
@@ -211,8 +214,14 @@ Developments in English documentary script between the thirteenth and fifteenth 
 [Durham Priory Register, c. 1457](https://iiif.durham.ac.uk/index.html?manifest=t2mqb98mf444&canvas=t2tfn106z10d)
 
 
+# 1460s
+[Archbishop's Register, c. 1463](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=08612p942&folio=67)
+
 # 1470s
 [Duchy of Lancaster records, 1478](http://aalt.law.uh.edu/DL5/DL5no1/IMG_4038.htm)
+
+# 1480s
+[Archbishop's Register, c. 1481](https://archbishopsregisters.york.ac.uk/browse/registers?folio=56&register_id=c247dt49c)
 
 # 1490s
 [Duchy of Lancaster records, 1494](http://aalt.law.uh.edu/DL5/DL5no3/IMG_0193.htm)
