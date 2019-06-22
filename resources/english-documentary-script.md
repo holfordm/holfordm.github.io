@@ -218,6 +218,8 @@ Developments in English documentary script between the thirteenth and fifteenth 
 [Archbishop's Register, c. 1463](https://archbishopsregisters.york.ac.uk/browse/registers?utf8=%E2%9C%93&register_id=08612p942&folio=67)
 
 # 1470s
+[Archbishop's Register, c. 1477](https://archbishopsregisters.york.ac.uk/browse/registers?folio=579&register_id=4x51hk428)
+
 [Duchy of Lancaster records, 1478](http://aalt.law.uh.edu/DL5/DL5no1/IMG_4038.htm)
 
 # 1480s
