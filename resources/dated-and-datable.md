@@ -234,6 +234,11 @@ Last updated 5 May 2018
 
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b90680273">Paris, BNF, lat. 2092</a></td><td>1136</td><td>France (S.Amand en Pévèle ?)</td></tr>
 
+
+
+
+<tr><td><a href="https://bvmm.irht.cnrs.fr/sommaire/sommaire.php?reproductionId=25602">Blois, BM, 144</a></td><td>1140-1 (c)</td><td>France (Pontlevoy, N.D.)</td></tr>
+
 <tr><td><a href="https://gallica.bnf.fr/ark:/12148/btv1b90807658">Paris, BNF, lat. 10913</a></td><td>1141 (c)</td><td>France (Saint-Evroult)</td></tr>
 
 
