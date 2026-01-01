@@ -29,13 +29,16 @@ Current coverage includes all relevant digitized manuscripts known to me in the 
 
 Given the collections, the emphasis is mainly on England and France.
 
-Update January 2026.
+Update in progress, January 2026, to fix broken links, add fields for script and decoration, and add new items.
 
-Last updated 5 May 2018
 
 <html><h2 id="England">England</h2>
 <table><tr><th>Shelfmark</th><th>Date</th><th>Origin</th><th>Script</th><th>Decoration</th></tr>
+
+<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/2c391baa-ecff-4411-aad9-2567dbe44b85/">Oxford, Bodleian Library, MS. Hatton 20</a></td><td>890 x 897</td><td>England (possibly Winchester)</td><td>Anglo-Saxon minuscule</td><td>initials</td></tr>
+
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/wp146tq7625">Cambridge, Corpus Christi College, 173, fols. 1-25</a></td><td>0891 (c.) - 0925 (c.)</td><td>England (Winchester)</td></tr>
+
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qv695jy8078">Cambridge, Corpus Christi College, 183</a></td><td>0934 x 0939</td><td>England</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/wp146tq7625">Cambridge, Corpus Christi College, 173, fols. 26-32</a></td><td>0947 (c.) - 1002 (c.)</td><td>England (Winchester)</td></tr>
 <tr><td><a href="http://gallica.bnf.fr/ark:/12148/btv1b6001165p">Paris, BNF, lat. 943</a></td><td>0960-1001</td><td>England (Sherborne)</td></tr>
@@ -76,7 +79,11 @@ Last updated 5 May 2018
 <tr><td><a href="https://mss-cat.trin.cam.ac.uk/Manuscript/O.3.55">Cambridge, Trinity College, O.3.55 (1227)</a></td><td>1153 (before)</td><td>England (Durham)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fs743fm9703">Cambridge, Corpus Christi College, 46</a></td><td>1159 x 1170</td><td>England (Canterbury)</td></tr>
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/qj220gv8417">Cambridge, Corpus Christi College, 139</a></td><td>1164 x 1175</td><td>England</td></tr>
+
+<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/10aaf6ea-9b80-4eae-a2a4-291016317827/">Oxford, Christ Church, MS. 88</a></td><td>1167</td><td>England (Buildwas)</td><td>protogothic</td><td>initials</td></tr>
+
 <tr><td><a href="https://mss-cat.trin.cam.ac.uk/Manuscript/O.2.1">Cambridge, Trinity College, O.2.1 (1105) , fols. 1-240</a></td><td>1173 (after)</td><td>England (Ely)</td></tr>
+
 <tr><td><a href="https://mss-cat.trin.cam.ac.uk/Manuscript/O.2.1">Cambridge, Trinity College, O.2.1. (1105) , fols. k1-14</a></td><td>1173 x 1189</td><td>England (Ely)</td></tr>
 
 <!---
@@ -234,7 +241,7 @@ Last updated 5 May 2018
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=7376&CollID=8&NStart=4015">*London, British Library, Harley 4015</a></td><td>1402</td><td>England (Central (Burton Lazars)</td></tr>
 -->
 
-<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/4915032a-5d02-4e4e-a82f-5c9c8ad78a36/">Oxford, Bodleian Library, MS. Bodl. 716, fols. 1r-246v</a></td><td>1403</td><td>England (Oxford)</td><td>anglicana, textualis</td>penwork<td></tr>
+<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/4915032a-5d02-4e4e-a82f-5c9c8ad78a36/">Oxford, Bodleian Library, MS. Bodl. 716, fols. 1r-246v</a></td><td>1403</td><td>England (Oxford)</td><td>anglicana, textualis</td><td>penwork</td></tr>
 
 <tr><td><a href="https://parker.stanford.edu/parker/catalog/fm985xq3462">Cambridge, Corpus Christi College, 7, fols. 69-91</a></td><td>1403 x 1422</td><td>England (St Albans)</td></tr>
 
@@ -242,7 +249,7 @@ Last updated 5 May 2018
 <tr><td><a href="http://www.bl.uk/catalogues/illuminatedmanuscripts/record.asp?MSID=4009&CollID=8&NStart=2946">*London, British Library, Harley 2946</a></td><td>1405</td><td>England (S. (London?))</td></tr>
 -->
 
-<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/0b26393b-7f1a-4ad7-95e2-3d17d1e66508/">Oxford, Bodleian Library, MS. Bodl. 758</a></td><td>1405</td><td>England (Norfolk, Ingham)</td><td>textualis (Ralph de Medylton)</td><td>Miniatures (drawings), borders, initials, penwork</td></tr>
+<tr><td><a href="https://digital.bodleian.ox.ac.uk/objects/0b26393b-7f1a-4ad7-95e2-3d17d1e66508/">Oxford, Bodleian Library, MS. Bodl. 758</a></td><td>1405</td><td>England (Norfolk, Ingham)</td><td>textualis (Ralph de Medylton)</td><td>miniatures (drawings), borders, initials, penwork</td></tr>
 
 <tr><td><a href="https://mss-cat.trin.cam.ac.uk/Manuscript/R.15.21">Cambridge, Trinity College, R.15.21 (943) , fols. 1-77</a></td><td>1408</td><td>England</td></tr>
 
